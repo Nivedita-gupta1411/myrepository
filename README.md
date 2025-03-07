@@ -1,6 +1,5 @@
 # myrepository
-this is my first repo
-<br>
+this is my first repo.
 hello!
 <br>
 nivedita gupta
